@@ -1,0 +1,5 @@
+2026-04-26 20:45:45,594 [INFO] backend.agents.user_input_agent: [UserInputAgent] Initialized.
+2026-04-26 20:45:45,594 [INFO] backend.agents.retrieval_agent: [RetrievalAgent] Initialized.
+2026-04-26 20:45:45,594 [INFO] backend.agents.nutrition_agent: [NutritionAgent] Initialized.
+2026-04-26 20:45:45,594 [INFO] backend.agents.validation_agent: [ValidationAgent] Initialized.
+2026-04-26 20:45:45,594 [INFO] backend.agents.orchestrator: [Orchestrator] All agents initialized.
